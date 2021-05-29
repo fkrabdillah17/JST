@@ -1,0 +1,3 @@
+Dataset diperoleh dari https://www.kaggle.com/mczielinski/bitcoin-historical-data 
+
+Dataset tidak dapat di unggah di github karena ukurannya yang terlalu besar
